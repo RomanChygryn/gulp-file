@@ -1,0 +1,10 @@
+{
+  "name": "gulp_webinar",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Roman Chygryn <chigrin.ra@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": ""
+}
